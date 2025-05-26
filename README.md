@@ -75,7 +75,7 @@ You were never just a patient.
 
 ## 🙏 Credits
 
-- 🎮 **Game Design & Programming**: [Timofey Kreslo](https://github.com/kreslotim)  [Mathieu Saury Le](https://github.com/MatthieuSLR9) [Océane Roessli](https://github.com/oce24)
+- 🎮 **Game Design & Programming**: [Timofey Kreslo](https://github.com/kreslotim),  [Mathieu Saury Le](https://github.com/MatthieuSLR9), [Océane Roessli](https://github.com/oce24)
 - 🦟 **Monster Assets**: Unity Asset Store  
 - 🎧 **Sound Design**: Freesound.org + custom mixing  
 - 🧠 **Narrative & Level Design**: Original work  
