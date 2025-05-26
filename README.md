@@ -70,8 +70,8 @@ You were never just a patient.
 ---
 ![room](https://github.com/user-attachments/assets/0657040c-f4d3-4baf-8a30-6e7627c403f9)
 ![monster](https://github.com/user-attachments/assets/a0e0d7df-8e52-425b-9ef0-f63b4429e3d7)
+![Psyhco](https://github.com/user-attachments/assets/da0a21b4-7667-429a-8d6b-61f64555ec03)
 
-![psycho](https://github.com/user-attachments/assets/8211531f-3131-4156-906e-90922ca5e131)
 
 ## 🙏 Credits
 
