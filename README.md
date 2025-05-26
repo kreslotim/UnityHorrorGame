@@ -85,7 +85,7 @@ You were never just a patient.
 ## 📜 License
 
 This game project is for educational and portfolio use only.  
-Please contact the author for any reuse, distribution, or collaboration.
+Please contact the author for any reuse, distribution, or collaboration.            
 We made this game within EPFL course : Pratiques Artistiques - Interactivité HUM-322
 
 ---
